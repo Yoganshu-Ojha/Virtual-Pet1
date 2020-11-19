@@ -10,7 +10,7 @@ function preload()
 {
   dog_img = loadImage("images/dogimg.png");
   dog_img2= loadImage("images/dogimg1.png");
-  milk_img = loadImage("images/Milk.png")
+  milk_img = loadImage("Milk.png")
 }
 
 function setup() {
